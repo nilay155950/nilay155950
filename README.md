@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nilay155950
 - 👀 I’m interested in digital forensics and cyber security- 
 🌱 I have my upper second class degree in digital forensics and cyber sercurity from London Metropolitan University
-- 💞️ I’m looking to work as cyber crime investigator/ analyst and doing my sertifications of Security+ 
+- 💞️ I’m looking to work as cyber crime investigator/ analyst and doing my certifications of Security+ 
 - 📫  contact: sharmanilay095@gmail.com
 phone: 07393539849
 
